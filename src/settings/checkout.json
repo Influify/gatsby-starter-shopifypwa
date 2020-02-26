@@ -1,1 +1,4 @@
-[{}]
+{
+  "canAdd": true,
+  "cartLinkType": "minicart"
+}
